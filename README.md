@@ -1,2 +1,3 @@
 # Bowman
-Thesis website
+Thesis Website
+
