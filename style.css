@@ -13,6 +13,19 @@
 
 }
 
+@media (max-width: 1000px) {
+    .main {
+        display: inline-flex;
+        /* width: 100vw;
+        height: 100vh; */
+        height: 100vh;
+        width: auto;
+        border: solid 20px yellow;
+    
+    
+    }
+}
+
 /* body {
     background-color: rgb(247, 96, 239);
 }
