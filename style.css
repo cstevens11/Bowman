@@ -21,11 +21,11 @@
     /* height: 90px;
     width: 160px; */
     border: solid 10px red;
-    /* -moz-transform:rotate(90deg);
+    -moz-transform:rotate(90deg);
     -webkit-transform:rotate(90deg);
     -o-transform:rotate(90deg);
     -ms-transform:rotate(90deg);
-    transform:rotate(90deg); */
+    transform:rotate(90deg);
 
 
 }
@@ -49,23 +49,24 @@
         display: inline-flex;
         justify-content: center;
         align-items: center;
-        /* height: 300px; */
+        /* height: 150px;
+        width: 240px; */
         /* height: 100vw;
         width: auto; */
         border: solid 10px blue;
-        -moz-transform:rotate(90deg);
+        /* -moz-transform:rotate(90deg);
         -webkit-transform:rotate(90deg);
         -o-transform:rotate(90deg);
         -ms-transform:rotate(90deg);
-        transform:rotate(90deg);
+        transform:rotate(90deg); */
     
     }
 
     video {
-        height: 90vw;
-        width: auto;
-        /* height: 70px;
-        width: 100px; */
+        height: auto;
+        width: 80vh;
+        /* height: 90px;
+        width: 160px; */
     }
 }
 
