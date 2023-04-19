@@ -49,6 +49,8 @@
         display: inline-flex;
         justify-content: center;
         align-items: center;
+        margin-top: -10vh;
+
         /* height: 150px;
         width: 240px; */
         /* height: 100vw;
