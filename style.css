@@ -38,7 +38,7 @@ video {
         justify-content: center;
         align-items: center;
         margin-top: -10vh;
-        border: solid 10px blue;
+        border: solid 10px green;
         -moz-transform:rotate(90deg);
         -webkit-transform:rotate(90deg);
         -o-transform:rotate(90deg);
