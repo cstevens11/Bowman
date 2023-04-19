@@ -95,8 +95,8 @@
     }
 
     video {
-        height: auto;
-        width: 80vh;
+        height: 80vh;
+        width: auto;
         /* height: 90px;
         width: 160px; */
     }
