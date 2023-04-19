@@ -28,8 +28,8 @@
 @media (max-width: 1000px) {
     .main {
         display: inline-flex;
-        height: 150px;
-        width: 300px;
+        height: 300px;
+        width: auto;
         border: solid 20px blue;
         -moz-transform:rotate(90deg);
         -webkit-transform:rotate(90deg);
