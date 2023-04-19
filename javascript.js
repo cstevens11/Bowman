@@ -1,3 +1,1 @@
-{/* <script>
-    document.getElementById('vid').play();
-</script> */}
+document.getElementById("vid").play();
