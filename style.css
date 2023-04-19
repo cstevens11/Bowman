@@ -27,7 +27,7 @@
 
 @media (max-width: 1000px) {
     body {
-        margin: 40px;
+        margin-top: 100px;
     }
     .main {
         display: inline-flex;
