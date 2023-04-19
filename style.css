@@ -4,24 +4,38 @@
 
 .main {
     display: inline-flex;
-    /* width: 100vw;
-    height: 100vh; */
+
     height: 100vh;
     width: auto;
     border: solid 20px red;
+    /* -moz-transform:rotate(90deg);
+    -webkit-transform:rotate(90deg);
+    -o-transform:rotate(90deg);
+    -ms-transform:rotate(90deg);
+    transform:rotate(90deg); */
 
 
 }
 
+/* .video {
+    -moz-transform:rotate(90deg);
+    -webkit-transform:rotate(90deg);
+    -o-transform:rotate(90deg);
+    -ms-transform:rotate(90deg);
+    transform:rotate(90deg);
+} */
+
 @media (max-width: 1000px) {
     .main {
         display: inline-flex;
-        /* width: 100vw;
-        height: 100vh; */
         height: 150px;
         width: 300px;
         border: solid 20px blue;
-    
+        -moz-transform:rotate(90deg);
+        -webkit-transform:rotate(90deg);
+        -o-transform:rotate(90deg);
+        -ms-transform:rotate(90deg);
+        transform:rotate(90deg);
     
     }
 }
