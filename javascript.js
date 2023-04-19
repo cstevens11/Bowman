@@ -1,1 +1,1 @@
-document.getElementById("vid").play();
+// document.getElementById("vid").play();
