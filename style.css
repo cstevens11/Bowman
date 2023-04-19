@@ -26,9 +26,9 @@
 } */
 
 @media (max-width: 1000px) {
-    body {
+    /* body {
         margin: 24px;
-    }
+    } */
     .main {
         display: inline-flex;
         height: 300px;
