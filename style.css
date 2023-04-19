@@ -23,17 +23,12 @@
     border: solid 10px red;
 }
 
-/* .inner {
-    display: flex;
-} */
+video {
+        height: 80vh;
+        width: auto;
+}
 
-/* .video {
-    -moz-transform:rotate(90deg);
-    -webkit-transform:rotate(90deg);
-    -o-transform:rotate(90deg);
-    -ms-transform:rotate(90deg);
-    transform:rotate(90deg);
-} */
+
 
 @media (max-width: 1000px) and (orientation: portrait)
  {
@@ -102,17 +97,10 @@
     }
 }
 
-/* body {
-    background-color: rgb(247, 96, 239);
-}
 
 
-.main {
-    display: flex;
 
-
-}
-.testfloater {
+/* .testfloater {
     display: flex;
     width: 50px;
     height: 50px;
@@ -121,5 +109,5 @@
     position: absolute;
     top: 80px;
     right: 144px;
-    /* z-index: -1;
+    z-index: -1;
 } */
