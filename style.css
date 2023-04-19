@@ -1,6 +1,11 @@
 /* * {
     margin: 0; padding: 0; border: 0; box-sizing: border-box;
 } */
+.border {
+    display: flex;
+    border: solid 10px orange;
+}
+
 
 .main {
     display: inline-flex;
