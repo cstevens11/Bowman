@@ -86,7 +86,7 @@
         justify-content: center;
         align-items: center;
         margin-top: -10vh;
-        border: solid 10px rgb(214, 14, 214);
+        border: solid 10px green;
         -moz-transform:rotate(90deg);
         -webkit-transform:rotate(90deg);
         -o-transform:rotate(90deg);
