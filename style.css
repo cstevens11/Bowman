@@ -1,13 +1,19 @@
 * {
-    margin: 0; padding: 0; border: 0; box-sizing: border-box;
+    margin: 0; padding: 0; border: 0; box-sizing: border-box; 
 }
+
+body {
+    background-color: black;
+}
+
+
 .border {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     width: 100vw;
-    border: solid 10px yellow;
+    /* border: solid 10px yellow; */
 }
 
 
@@ -21,7 +27,7 @@
     width: auto; */
     /* height: 90px;
     width: 160px; */
-    border: solid 10px red;
+    /* border: solid 10px red; */
 }
 
 video {
@@ -46,7 +52,7 @@ video {
         justify-content: center;
         align-items: center;
         margin-top: -10vh;
-        border: solid 10px orange;
+        /* border: solid 10px orange; */
         -moz-transform:rotate(90deg);
         -webkit-transform:rotate(90deg);
         -o-transform:rotate(90deg);
@@ -89,7 +95,7 @@ video {
         justify-content: center;
         align-items: center;
         margin-left: -15vh;
-        border: solid 10px purple;
+        /* border: solid 10px purple; */
         -moz-transform:rotate(90deg);
         -webkit-transform:rotate(90deg);
         -o-transform:rotate(90deg);
